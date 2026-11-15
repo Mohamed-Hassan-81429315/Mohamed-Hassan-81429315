@@ -149,10 +149,6 @@ A machine learning system designed to predict hotel booking cancellations and su
 **Training:** National Telecommunication Institute (NTI) – Machine Learning Engineer Training (2025).
 ---
 
-### Professional Experience
-
-### Professional Experience
-
 ## Professional Experience & Selected Contributions
 
 ### AI Engineering Intern – IZAM
