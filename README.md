@@ -153,16 +153,66 @@ A machine learning system designed to predict hotel booking cancellations and su
 
 ### Professional Experience
 
-**AI Engineering Intern | IZAM – Smart Village, Egypt**  
-*August 2026 – October 2026*
+## Professional Experience & Selected Contributions
 
-Contributed to the development and delivery of AI-powered features for real-world products.
+### AI Engineering Intern – IZAM
+*Smart Village, Egypt | August 2026 – October 2026*
 
-- Developed MOSAED, an AI-powered recruitment chatbot for the Tanqeeb platform.
-- Built a Market Gap Analyzer to identify skill gaps between candidate profiles and market demand.
-- Delivered Salary Intelligence, an AI-powered salary estimation feature using Mistral AI.
-- Contributed to Business Online Templates, a multilingual document generation platform.
-- Worked across frontend, backend, and AI integration, taking features from design to deployment.
+Contributed to building and delivering AI-powered features for live products, working across frontend, backend, and AI integration.
+
+**MOSAED – AI-Powered Recruitment Assistant**
+- Developed an AI chatbot for the Tanqeeb recruitment platform.
+- Helped job seekers discover opportunities and apply for jobs.
+- Supported employers in identifying relevant candidates.
+- Contributed to frontend, backend, and AI components.
+
+**Market Gap Analyzer – Skill Demand Analysis**
+- Developed a tool to compare candidate skills against current market demand.
+- Identified missing skills to help candidates understand their learning priorities.
+
+**Salary Intelligence – AI-Powered Salary Estimation**
+- Developed a salary estimation feature using Mistral AI.
+- Estimated salaries based on job title, experience, and seniority.
+- Implemented automatic country detection using visitor IP information.
+
+**Business Online Templates – Multilingual Document Library**
+- Contributed to a multilingual document generation platform.
+- Developed document templates for invoices, employment contracts, resumes, and more.
+- Supported PDF generation across 11 languages and 20 countries.
+
+*Note: These projects were developed within IZAM's company repositories and are not publicly available.*
+
+---
+
+## Personal & Graduation Projects
+
+### Jobilot – Intelligent Job Recommendation & Application Platform
+**Python | FastAPI | Django | LLMs | RAG | PostgreSQL | Redis | Docker**
+
+- Developed an AI-powered job application assistant.
+- Integrated LLMs and RAG for intelligent job matching and resume optimization.
+- Implemented semantic search, embeddings, and recommendation services.
+- Built backend AI services and RESTful APIs.
+
+**Graduation Project | Grade: Excellent**
+
+[View Repository](YOUR_JOBILOT_REPOSITORY_LINK)
+
+---
+
+## Machine Learning Projects
+
+### Hotel Guest Cancellation Prediction
+**Python | Scikit-learn | Pandas | NumPy | XGBoost**
+
+- Developed a machine learning system to predict hotel booking cancellations.
+- Applied data preprocessing and feature engineering.
+- Built and evaluated classification models.
+- Used hyperparameter tuning and explainable analytics.
+
+**NTI Machine Learning Engineer Training – Final Project**
+
+[View Repository](YOUR_HOTEL_PROJECT_REPOSITORY_LINK)
   
 ---
 
