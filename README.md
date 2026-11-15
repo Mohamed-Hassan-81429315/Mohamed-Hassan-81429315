@@ -11,8 +11,6 @@ Currently focused on building reliable AI applications using Python, LLMs, Retri
 
 ### About Me
 
-### About Me
-
 - AI Engineer focused on Generative AI, LLM applications, and intelligent systems.
 - Hands-on experience developing and shipping AI-powered features for real-world products during my internship at IZAM.
 - Experienced in building LLM-powered applications, RAG pipelines, semantic search, and recommendation systems.
@@ -20,33 +18,52 @@ Currently focused on building reliable AI applications using Python, LLMs, Retri
 - Interested in AI Agents, Multi-Agent Systems, and scalable AI applications.
 - B.Sc. Graduate – Faculty of Science, Minia University (2026).
   
-**Programming & Data Science**
-- Python
-- NumPy, Pandas
-- Scikit-learn
-- TensorFlow & PyTorch
+### Technical Skills
+
+**Programming Languages**
+- Python, PHP
 
 **Generative AI & NLP**
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Prompt Engineering
-- Natural Language Processing
-- Hugging Face
+- AI Agents & Prompt Engineering
+- Natural Language Processing (NLP)
+- Semantic Search & Embedding Models
+- Transformers (BERT)
+- Hugging Face Transformers
 
-**Backend & Deployment**
+**Machine Learning & Deep Learning**
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Machine Learning & Deep Learning
+- Recommendation Systems
+
+**Data Analysis & Visualization**
+- Pandas
+- Matplotlib
+- Seaborn
+
+**Backend & API Development**
 - FastAPI
 - Django
-- REST APIs
+- Laravel
+- RESTful APIs
+
+**Deployment & Development Tools**
 - Docker
 - Git & GitHub
+- Streamlit
 
-**Databases & Tools**
+**Databases & Infrastructure**
 - PostgreSQL
-- Vector Databases
 - Redis
-- Jupyter Notebook
+- Vector Search
 
+**Cloud & AI Platforms**
+- Google Cloud AI
+- Vertex AI
+  
 --------------
 
 ### Featured Projects
@@ -134,10 +151,19 @@ A machine learning system designed to predict hotel booking cancellations and su
 
 ### Professional Experience
 
-**AI Engineering Intern – IZAM**
+### Professional Experience
 
-Worked on real-world AI product development, contributing to four features across live products, including MOSAED, an AI-powered recruitment assistant.
+**AI Engineering Intern | IZAM – Smart Village, Egypt**  
+*August 2026 – October 2026*
 
+Contributed to the development and delivery of AI-powered features for real-world products.
+
+- Developed MOSAED, an AI-powered recruitment chatbot for the Tanqeeb platform.
+- Built a Market Gap Analyzer to identify skill gaps between candidate profiles and market demand.
+- Delivered Salary Intelligence, an AI-powered salary estimation feature using Mistral AI.
+- Contributed to Business Online Templates, a multilingual document generation platform.
+- Worked across frontend, backend, and AI integration, taking features from design to deployment.
+  
 ---
 
 ### GitHub Statistics
@@ -150,7 +176,10 @@ Worked on real-world AI product development, contributing to four features acros
 
 ### Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/engineer-mohamed-hassan
-- GitHub: https://github.com/Mohamed-Hassan-81429315
+I'm interested in AI Engineering opportunities, Generative AI projects, and collaborations involving intelligent applications.
+
+- **LinkedIn:** [Mohamed Hassan](https://www.linkedin.com/in/engineer-mohamed-hassan)
+- **GitHub:** [Mohamed-Hassan-81429315](https://github.com/Mohamed-Hassan-81429315)
+- **Email:** mhmdhsnbdalbdy6@gmail.com
 
 **Open to AI Engineering opportunities, collaborations, and challenging AI projects.**
