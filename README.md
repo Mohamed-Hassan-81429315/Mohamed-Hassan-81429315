@@ -46,22 +46,89 @@ Currently focused on building reliable AI applications using Python, LLMs, Retri
 - Redis
 - Jupyter Notebook
 
----
+--------------
 
 ### Featured Projects
 
-**MOSAED – AI-Powered Job Assistant**
+My selected work across Generative AI, AI-powered applications, Machine Learning, and full-stack development.
 
-An AI-powered chatbot for the Tanqeeb recruitment platform, designed to help job seekers discover and apply for opportunities while helping employers identify suitable candidates.
+### AI & Generative AI Projects
 
-**Jobilot – Intelligent Job Recommendation Platform**
+#### 1. MOSAED – AI-Powered Recruitment Assistant
+**AI Chatbot | NLP | PHP | Laravel | Bootstrap**
 
-A graduation project focused on intelligent job recommendations and application assistance using AI-driven job and candidate analysis.
+An AI-powered chatbot developed for the Tanqeeb recruitment platform to improve the recruitment experience for both job seekers and employers.
 
-**Prognex – Machine Learning Project**
+- Helps job seekers discover relevant job opportunities and navigate applications.
+- Assists employers in surfacing relevant candidates.
+- Designed and implemented frontend, backend, and AI components end to end.
+- Integrated AI/NLP capabilities into the recruitment platform.
 
-An applied machine learning project demonstrating practical predictive modeling and data-driven analysis.
+**Experience:** AI Intern at IZAM (2026).
 
+#### 2. Jobilot – Intelligent Job Recommendation & Application Platform
+**Python | FastAPI | Django | LLMs | RAG | PostgreSQL | Redis | Docker**
+
+An AI-powered platform designed to streamline job matching, resume optimization, and application assistance.
+
+- Developed intelligent job-matching services using AI techniques.
+- Integrated LLMs and Retrieval-Augmented Generation (RAG).
+- Implemented context-aware resume tailoring.
+- Built AI services for automated application assistance.
+- Designed backend solutions using semantic search, embeddings, and REST APIs.
+
+**Achievement:** Graduation Project – Grade: Excellent.
+
+#### 3. Market Gap Analyzer – Skill Demand Analysis
+**PHP | Laravel | Bootstrap | Data Analysis**
+
+A skill-analysis tool that compares candidates' existing skills against current market demand.
+
+- Analyzes market-demanded skills.
+- Identifies missing skills in candidate profiles.
+- Provides insights to help candidates understand what they need to learn to improve employability.
+
+**Experience:** AI Intern at IZAM (2026).
+
+#### 4. Salary Intelligence – AI-Powered Salary Estimation
+**Mistral AI | LLM Integration | Backend Development**
+
+A salary estimation feature developed in response to a business requirement.
+
+- Estimates expected salaries based on job title, years of experience, and seniority.
+- Automatically detects the visitor's country using IP information.
+- Works without requiring user authentication.
+- Integrates Mistral AI for salary predictions.
+
+**Experience:** AI Intern at IZAM (2026).
+
+### Software & Full-Stack Projects
+
+#### 5. Business Online Templates – Multilingual Document Library
+**Next.js | CakePHP | Laravel | PDF Generation**
+
+A multilingual document library designed for small businesses and individuals.
+
+- Provides ready-to-use business documents, invoices, employment contracts, and resumes.
+- Supports PDF generation without requiring user registration.
+- Offers 11 languages across 20 countries.
+- Designed around country-specific document standards.
+
+**Role:** Designer & Full-Stack Developer at IZAM (2026).
+
+### Machine Learning Projects
+
+#### 6. Hotel Guest Cancellation Prediction
+**Python | Scikit-learn | Pandas | NumPy | XGBoost**
+
+A machine learning system designed to predict hotel booking cancellations and support data-driven revenue optimization.
+
+- Performed data preprocessing and feature engineering.
+- Developed classification models to predict booking cancellations.
+- Applied hyperparameter tuning and model evaluation.
+- Used explainable analytics to support model interpretation.
+
+**Training:** National Telecommunication Institute (NTI) – Machine Learning Engineer Training (2025).
 ---
 
 ### Professional Experience
