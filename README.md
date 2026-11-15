@@ -11,13 +11,7 @@ Currently focused on building reliable AI applications using Python, LLMs, Retri
 
 ### About Me
 
-- AI Engineer with hands-on experience in AI product development.
-- Currently developing AI-powered applications and intelligent automation systems.
-- Experienced in working across AI, backend, and application integration.
-- Interested in Multi-Agent Systems, RAG architectures, and LLM-powered applications.
-- Always exploring ways to turn AI research and technologies into practical products.
-
-### Technical Skills
+AI Engineer building practical AI-powered products, with experience in LLM applications, RAG, AI integration, and end-to-end feature development.
 
 **Programming & Data Science**
 - Python
