@@ -11,8 +11,15 @@ Currently focused on building reliable AI applications using Python, LLMs, Retri
 
 ### About Me
 
-AI Engineer building practical AI-powered products, with experience in LLM applications, RAG, AI integration, and end-to-end feature development.
+### About Me
 
+- AI Engineer focused on Generative AI, LLM applications, and intelligent systems.
+- Hands-on experience developing and shipping AI-powered features for real-world products during my internship at IZAM.
+- Experienced in building LLM-powered applications, RAG pipelines, semantic search, and recommendation systems.
+- Comfortable working across AI development, backend engineering, and frontend integration.
+- Interested in AI Agents, Multi-Agent Systems, and scalable AI applications.
+- B.Sc. Graduate – Faculty of Science, Minia University (2026).
+  
 **Programming & Data Science**
 - Python
 - NumPy, Pandas
