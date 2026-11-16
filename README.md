@@ -212,14 +212,6 @@ Contributed to building and delivering AI-powered features for live products, wo
   
 ---
 
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Hassan-81429315&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hassan-81429315&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ### Let's Connect
 
 I'm interested in AI Engineering opportunities, Generative AI projects, and collaborations involving intelligent applications.
